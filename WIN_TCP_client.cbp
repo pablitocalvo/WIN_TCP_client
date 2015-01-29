@@ -31,9 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="TCPclient.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="TCPclient.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
