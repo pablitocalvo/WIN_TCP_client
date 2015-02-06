@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1406023897 source:c:\users\docente\documents\paolo\win_tcp_client\tcpclient.c
-	<stdio.h>
-	<string.h>
-	<WinSock.h>
-	"TCPclient.h"
-
-1406023682 c:\users\docente\documents\paolo\win_tcp_client\tcpclient.h
-
